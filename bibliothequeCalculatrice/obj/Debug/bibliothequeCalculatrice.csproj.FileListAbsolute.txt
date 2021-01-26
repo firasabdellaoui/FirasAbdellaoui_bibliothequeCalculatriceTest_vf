@@ -1,0 +1,5 @@
+C:\Users\mm\source\repos\bibliothequeCalculatriceTest_vf\bibliothequeCalculatrice\bin\Debug\bibliothequeCalculatrice.dll
+C:\Users\mm\source\repos\bibliothequeCalculatriceTest_vf\bibliothequeCalculatrice\bin\Debug\bibliothequeCalculatrice.pdb
+C:\Users\mm\source\repos\bibliothequeCalculatriceTest_vf\bibliothequeCalculatrice\obj\Debug\bibliothequeCalculatrice.csprojAssemblyReference.cache
+C:\Users\mm\source\repos\bibliothequeCalculatriceTest_vf\bibliothequeCalculatrice\obj\Debug\bibliothequeCalculatrice.dll
+C:\Users\mm\source\repos\bibliothequeCalculatriceTest_vf\bibliothequeCalculatrice\obj\Debug\bibliothequeCalculatrice.pdb
